@@ -1,0 +1,111 @@
+* {
+  
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Arial";
+  
+}
+
+
+
+body {
+
+  background-color: black;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.cadastro {
+  
+  color: white;
+  font-size: 20px;
+  background-color: darkorchid;
+  position: relative;
+  text-align: center;
+  height: 100px;
+  padding: 30px;
+  
+  
+  
+  
+}
+
+
+input {
+  
+  width: 450px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+
+.nome {
+  
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 100px;
+  margin-right: 330px;
+   
+}
+
+
+.inputnome {
+  
+  color: white;
+  
+  text-align: center;
+
+  
+  
+}
+
+
+.email {
+  
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  margin-right: 400px;
+  padding-top: 30px; 
+}
+
+.inputemail {
+  
+  color: white;
+  text-align: center;
+  
+}
+
+
+.senha {
+  
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  margin-right: 400px;
+  padding-top: 30px;
+}
+
+.inputsenha {
+  color: white;
+  text-align: center;
+  
+}
+
+.cadastrar {
+  
+  width: 150px;
+  padding: 10px;
+  margin-left: 890px;
+  margin-top: 50px;
+  border-radius: 10px;
+  
+}
+
+
+
